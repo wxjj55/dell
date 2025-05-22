@@ -53,8 +53,8 @@ Cloudflare套CDN：dash.cloudflare.com/login
 目标端口：选择：重写到...vps节点端口
 
 搭建clawcloud     ap-northeast-1.run.claw.cloud/  
-1,Image（镜像）选择Public    Image Name填写:  metaligh/3x-ui
-2.网络端口设置: 开启 80 端口  添加并开启 2053 端口
-3,Local Storage（本地存储）本地挂载两个目录: /etc/x-ui/   /etc/letsencrypt/  点击 Deploy Application 部署应用
-4,:登录 3x-ui 管理面板: 打开 2053 端口对应的网络地址，进入管理后台  用户名/密码：admin  
-5, 创建 VLESS 节点: 创建节点时选择: 类型：VLESS  传输协议：WS  端口配置：80
+1,Image（镜像）选择Public    Image Name填写:  metaligh/3x-ui   
+2.网络端口设置: 开启 80 端口  添加并开启 2053 端口   
+3,Local Storage（本地存储）本地挂载两个目录: /etc/x-ui/   /etc/letsencrypt/  点击 Deploy Application 部署应用   
+4,:登录 3x-ui 管理面板: 打开 2053 端口对应的网络地址，进入管理后台  用户名/密码：admin   
+5, 创建 VLESS 节点: 创建节点时选择: 类型：VLESS  传输协议：WS  端口配置：80  
