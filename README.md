@@ -5,6 +5,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh 
 
 https://ping.pe  https://ip.sb  powercfg -h off chrome.exe" -incognito    passwd  reboot  mwuh0808   
+https://github.com/2dust/v2rayN  
 https://github.com/MHSanaei/3x-ui     
 https://github.com/mack-a/v2ray-agent      
 https://github.com/cmliu/edgetunnel    
