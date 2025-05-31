@@ -1,4 +1,3 @@
-vless://4cd0dcf8-1758-434a-b193-e98c@psmspfhgptwb.ap-northeast-1.clawcloudrun.com:443?encryption=none&security=tls&sni=psmspfhgptwb.ap-northeast-1.clawcloudrun.com&type=ws&host=psmspfhgptwb.ap-northeast-1.clawcloudrun.com&path=%2F#z943ffcd  
 vless://01f3adee-0ace-4f2b-af5c-d2765@104.16.160.12:2096?encryption=none&security=tls&sni=word-6se.pages.dev&fp=randomized&allowInsecure=1&type=ws&host=word-6se.pages.dev&path=%2F%3Fed%3D2560#b  
 
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)         
